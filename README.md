@@ -1,5 +1,4 @@
-<img width="1303" alt="ifnested" src="https://github.com/user-attachments/assets/611a3b28-bc7f-4e12-98bb-e13424d34184" /><img width="1303" alt="echo_1" src="https://github.com/user-attachments/assets/9cd17482-b652-4f67-8163-8f696ae4dcfd" /><img width="983" alt="tar1" src="https://github.com/user-attachments/assets/4ec59c36-0eb4-41a5-9acf-c91298d53b3f" /># OS-Linux-commands-Shell-scripting
-Operating systems Lab exercise
+
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
